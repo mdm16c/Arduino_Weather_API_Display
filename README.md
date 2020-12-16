@@ -8,12 +8,10 @@ I want a little weather station screen that I can set on my desk to always be ab
 Early WIP
 
 ## Code Style
-If you're using any code style like xo, standard etc. That will help others while contributing to your project. Ex. -
-
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
  
 ## Pictures
-When the project is completed, their will be images of the wiring and final casing of the project posted here
+When the project is completed, there will be images of the wiring and final casing of the project posted here.
 
 ## Framework Used
 [Arduino](https://www.arduino.cc/)
